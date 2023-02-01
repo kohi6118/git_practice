@@ -1,0 +1,2 @@
+moving or combining the sequence of commit to new commit base .
+we are changing the base commit.
